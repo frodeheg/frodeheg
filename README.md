@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @frodeheg
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on apps for Homey Pro
+- 👋 Hi, I’m Frode Heggelund
+- 💞️ I’m making apps for Homey Pro in my spare time
 - 📫 How to reach me +47 95 99 50 52
 
 <!---
